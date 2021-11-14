@@ -1,0 +1,50 @@
+  .heading
+  {
+    font-size: 50px;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+    font-family: Rampart One;
+  }
+  .heading_div
+  {
+    font-family: 'Mochiy Pop P One', sans-serif;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    float:none;
+    font-size: 30px !important;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    background-color: grey;
+    width: 100%;
+    bottom: 0;
+    position: fixed;
+    line-height: 4;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  canvas{
+    border: 5px solid black;
+    margin-top: 140px;
+    border-radius: 15px;
+    box-shadow:3px 3px 38px fuchsia;
+  }
+ 
